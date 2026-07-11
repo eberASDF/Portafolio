@@ -501,7 +501,7 @@
 .window-layer {
   position: absolute;
   inset: 0 0 52px;
-  z-index: 100;
+  z-index: 420;
   pointer-events: none;
 }
 
